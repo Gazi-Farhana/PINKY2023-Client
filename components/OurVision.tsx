@@ -4,7 +4,7 @@ import SectionTitle from "./SectionTitle";
 const OurVision = () => {
   return (
     <section id="our-vision" className="wrapper section-padding">
-      <SectionTitle title="Our Vision" />
+      <SectionTitle title="Our Purpose of Existance" />
 
       <div className="flex flex-col gap-20 text-xl">
         {/* PART 1 */}
@@ -37,7 +37,7 @@ const OurVision = () => {
         <div className="grid lg:grid-cols-5 gap-20">
           <div className="order-2 lg:order-1 lg:col-span-2 w-full h-full overflow-hidden">
             <Image
-              src="https:https://images.pexels.com/photos/4483669/pexels-photo-4483669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://images.pexels.com/photos/4483669/pexels-photo-4483669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
               alt="Black elderly people sitting on chairs in yard of hospital in poor African village"
               width={1280}
               height={720}

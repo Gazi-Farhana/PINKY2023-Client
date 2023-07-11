@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Elysian Feeds | Login",
+  title: "Pinky | Login",
 };
 
 export default function LoginLayout({
