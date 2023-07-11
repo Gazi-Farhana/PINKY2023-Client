@@ -11,7 +11,7 @@ const baiJamjuree = Bai_Jamjuree({
 });
 
 export const metadata = {
-  title: "Elysian Feeds | Home",
+  title: "pinky | Home",
 };
 
 export default function RootLayout({

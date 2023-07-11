@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Elysian Feeds | User Dashboard",
+  title: "pinky | User Dashboard",
 };
 
 export default function UserLayout({

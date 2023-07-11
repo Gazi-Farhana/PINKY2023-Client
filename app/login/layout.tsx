@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Pinky | Login",
+  title: "pinky | Login",
 };
 
 export default function LoginLayout({

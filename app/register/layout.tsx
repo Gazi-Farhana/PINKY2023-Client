@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Pinky | Register",
+  title: "pinky | Register",
 };
 
 export default function RegisterLayout({
