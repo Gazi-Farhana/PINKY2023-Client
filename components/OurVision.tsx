@@ -24,8 +24,8 @@ const OurVision = () => {
           </div>
           <div className="lg:col-span-2 w-full h-full overflow-hidden">
             <Image
-              src="https://images.pexels.com/photos/1981111/pexels-photo-1981111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-              alt="Black and White Bicolor Cat"
+              src="https://images.pexels.com/photos/15817660/pexels-photo-15817660/free-photo-of-people-feeding-cat-on-city-street.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              alt="People Feeding Cat on City Street"
               width={1280}
               height={720}
               priority
@@ -37,8 +37,8 @@ const OurVision = () => {
         <div className="grid lg:grid-cols-5 gap-20">
           <div className="order-2 lg:order-1 lg:col-span-2 w-full h-full overflow-hidden">
             <Image
-              src="https://images.pexels.com/photos/6646917/pexels-photo-6646917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-              alt="A Group of Volunteers Assisting an Elderly Person on a Black Wheelchair For Charity"
+              src="https:https://images.pexels.com/photos/4483669/pexels-photo-4483669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              alt="Black elderly people sitting on chairs in yard of hospital in poor African village"
               width={1280}
               height={720}
               priority
