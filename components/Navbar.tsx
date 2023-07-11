@@ -95,7 +95,7 @@ const Navbar = () => {
           </ul>
         </div>
         <Link href="/" className="btn btn-ghost normal-case text-xl">
-          elysianFeeds
+          Pinky
         </Link>
       </nav>
 
