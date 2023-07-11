@@ -12,25 +12,14 @@ const OurVision = () => {
           <div className="space-y-5 lg:col-span-3">
             <p className="text-9xl font-bold opacity-10">01</p>
             <h3 className="text-5xl font-semibold uppercase">
-              Harmony for Hounds and Felines
+              We Are Animal Lovers
             </h3>
             <p>
-              With 80 rescue volunteers, 2 shelter homes capable of housing 600
-              homeless animals, and 3 medical service centers staffed by 8
-              dedicated veterinary doctors, we ensure the health and well-being
-              of over 450 needy animals.
+              
+              We prioritize the health and well-being of over 450 animals through the combined efforts of our 80 rescue volunteers, two shelter homes capable of accommodating 600 homeless animals, and three medical service centers managed by eight dedicated veterinary doctors. 
             </p>
             <p>
-              Alongside our commitment to humans, our organization is also
-              dedicated to animal welfare. Our vision encompasses a world where
-              compassion knows no species boundaries, eradicating hunger and
-              suffering for all. Through our dedicated efforts, including
-              feeding of needy animals with nutritious animal-friendly foods, we
-              alleviate the plight of needy animals, providing not only
-              sustenance but also essential medical care and shelter. Our
-              holistic approach aims to cultivate empathy and foster a society
-              where the well-being of every living being is cherished and
-              protected.
+            In addition to our commitment to humans, our organization is deeply devoted to animal welfare. Our vision revolves around a world where compassion knows no boundaries, extending to all species, and eradicating hunger and suffering. We actively work towards this goal by providing nutritious and animal-friendly food to needy animals, along with essential medical care and shelter. Our comprehensive approach aims to nurture empathy and foster a society that values and safeguards the well-being of every living being.
             </p>
           </div>
           <div className="lg:col-span-2 w-full h-full overflow-hidden">
@@ -59,25 +48,14 @@ const OurVision = () => {
           <div className="space-y-5 lg:col-span-3 order-1 lg:order-2">
             <p className="text-9xl font-bold opacity-10 lg:text-right">02</p>
             <h3 className="text-5xl font-semibold uppercase lg:text-right">
-              A True Friend in Need
+              We Are Your Frineds
             </h3>
             <p className="lg:text-right">
-              Having more than 200 food suppliers and 60 volunteers, we serve
-              nutritious and balanced diets to 4 assisted living facilities with
-              over 400 elderly individuals, 6 orphanages with more than 600
-              children, and an average of 200 homeless people on a regular
-              basis.
+             
+              We ensure that over 400 elderly individuals in 4 assisted living facilities, more than 600 children in 6 orphanages, and an average of 200 homeless people receive nutritious and balanced meals regularly. Our efforts are made possible by a network of over 200 food suppliers and supported by a dedicated team of 60 volunteers.
             </p>
             <p className="lg:text-right">
-              Our organization is dedicated to human welfare and envisions a
-              future where no individual experiences hunger. Through tireless
-              efforts, we collect surplus food from restaurants and events,
-              transforming it into nourishing meals for the less fortunate. We
-              strive to eliminate hunger by bridging the gap between food waste
-              and the needs of underprivileged individuals. With compassion and
-              determination, we envision a society where every person has access
-              to an ample supply of nutritious food, ensuring their well-being
-              and preserving their dignity.
+            Our organization is committed to the well-being of individuals and has a vision for a future where no one goes hungry. Through dedicated and relentless efforts, we gather excess food from restaurants and events, converting it into nourishing meals for those in need. Our aim is to address hunger by connecting the surplus food with the needs of underprivileged individuals. With compassion and unwavering determination, we envision a society where everyone has access to an abundant supply of nutritious food, thereby promoting their well-being and upholding their dignity.
             </p>
           </div>
         </div>
